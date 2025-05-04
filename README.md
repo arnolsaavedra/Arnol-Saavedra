@@ -97,21 +97,16 @@ Additionally, I have experience managing databases such as MySQL, MongoDB, and F
 
 <br/>  
 
-
-### Data Analytics (Tableu)  
+<div width="40%">
+<p>Data Analytics (Tableu)</p>
 <img src="https://arnol.pethistorytracker.com/FinalDashboard.png" align="left" height="300" width="500" />  
-  
-<br/>  
-
-### New app to improve active user rate (Android, IOS)  
-<img src="https://arnol.pethistorytracker.com/newapp.png" align="left" height="300" width="500" />  
-  
-
-<br/>  
-
-  
-
-<br/>  
+  <br>
+ </div> 
+ 
+<div width="40%">
+<p>New app to improve active user rate (Android, IOS)  </p>
+<img src="https://arnol.pethistorytracker.com/newapp.png" align="right" height="300" width="500" />  
+</div>
 
   
 
