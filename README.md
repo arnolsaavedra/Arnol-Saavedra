@@ -11,12 +11,17 @@ Arnol Saavedra
 - 🤖 I am currently deepening my knowledge of AI to apply it to existing solutions.  
   
 
-Systems Engineer with a diploma in Marketing and over 10 years of experience in software development and data analysis (Business Intelligence & Analytics). Passionate about transforming business needs into effective technological solutions, I have created applications for corporate, private, and public use that generate real value and support strategic decision-making. Expert in converting raw data into actionable insights to drive growth and efficiency.
+💡 I started programming at the age of 15 by creating multiplayer games for fun—and I’ve never stopped building since.
 
-I have been programming since I was 15, and by the age of 25, I have held key roles in various technology companies: Senior Web Developer, Web Platform Technical Support, Project Consultant, and Decision Judge in technical committees. My career includes process optimization, leadership of multidisciplinary teams, and the delivery of high-quality software in demanding environments.
+I'm a Systems Engineer specialized in Information Technology with over 5 years of experience as a Senior Full Stack Developer, currently expanding my skills in Business Intelligence & Analytics (BIA). I’ve led and contributed to scalable, impactful platforms like PetHistoryTracker, and developed robust digital tools for organizations across healthcare, education, and e-commerce.
 
-Additionally, I have experience managing databases such as MySQL, MongoDB, and Firebase, and have worked with Amazon servers.  
-  
+💻 My core stack includes PHP, Node.js, Java, Vue.js, Laravel, MySQL, Firebase, Docker, Git, and CI/CD pipelines. I’m also proficient in front-end frameworks like Materialize CSS, Bootstrap, JavaScript, jQuery, HTML5, and experienced in using Google Search Console and visualization tools like Tableau and Power BI for data-driven decision making.
+
+I’m passionate about blending technology with purpose—whether it’s improving UX through responsive design, building API services, or integrating secure cloud solutions. I have a strong foundation in SEO, digital marketing, and Agile development practices, and I’m always eager to keep learning and applying new tech to solve real-world problems.
+
+🌱 Outside of work, I enjoy reading about emerging technologies, working on side projects, and exploring ways to simplify complex systems. I'm motivated by innovation, collaboration, and making meaningful contributions to teams and communities.
+
+📩 I’m currently open to freelance or full-time opportunities—especially in roles that combine backend development, data, and product growth. Feel free to connect or message me here on LinkedIn, or reach out via email at arnol_saavedra@hotmail.com.
 
 <br/>  
 
