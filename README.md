@@ -6,6 +6,7 @@ Arnol Saavedra
   
 
 ### <div align="center">I'm Arnol, Systems engineer and full-stack developer with strong expertise in marketing and data analytics. Passionate about solving problems and building scalable solutions.</div>  
+Contact: arnol_saavedra@hotmail.com Or +17734587393
   
 
 - 🤖 I am currently deepening my knowledge of AI to apply it to existing solutions.  
@@ -15,13 +16,13 @@ Arnol Saavedra
 
 I'm a Systems Engineer specialized in Information Technology with over 5 years of experience as a Senior Full Stack Developer, currently expanding my skills in Business Intelligence & Analytics (BIA). I’ve led and contributed to scalable, impactful platforms like PetHistoryTracker, and developed robust digital tools for organizations across healthcare, education, and e-commerce.
 
-💻 My core stack includes PHP, Node.js, Java, Vue.js, Laravel, MySQL, Firebase, Docker, Git, and CI/CD pipelines. I’m also proficient in front-end frameworks like Materialize CSS, Bootstrap, JavaScript, jQuery, HTML5, and experienced in using Google Search Console and visualization tools like Tableau and Power BI for data-driven decision making.
+💻 My core stack includes PHP, Node.js, Java, Vue.js, MySQL, Firebase, Docker, Git, and CI/CD pipelines. I’m also proficient in front-end frameworks like Materialize CSS, Bootstrap, JavaScript, jQuery, HTML5, and experienced in using Google Search Console and visualization tools like Tableau and Power BI for data-driven decision making.
 
 I’m passionate about blending technology with purpose—whether it’s improving UX through responsive design, building API services, or integrating secure cloud solutions. I have a strong foundation in SEO, digital marketing, and Agile development practices, and I’m always eager to keep learning and applying new tech to solve real-world problems.
 
 🌱 Outside of work, I enjoy reading about emerging technologies, working on side projects, and exploring ways to simplify complex systems. I'm motivated by innovation, collaboration, and making meaningful contributions to teams and communities.
 
-📩 I’m currently open to freelance or full-time opportunities—especially in roles that combine backend development, data, and product growth. Feel free to connect or message me here on LinkedIn, or reach out via email at arnol_saavedra@hotmail.com.
+📩 I’m currently open to freelance or full-time opportunities—especially in roles that combine backend development, data, and product growth. Feel free to connect or message me here on LinkedIn, or reach out via email at arnol_saavedra@hotmail.com Or +17734587393.
 
 <br/>  
 
